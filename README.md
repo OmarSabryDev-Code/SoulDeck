@@ -38,11 +38,6 @@ With dozens of cards and unique abilities, the game provides an intense and real
 
 ---
 
-## 📷 Screenshots  
-*(Add screenshots here if available)*  
-
----
-
 ## 👤 Author
 - **Omar Sabry**  
   Graduate in Computer Science from Arab Academy for Science, Technology, and Maritime Transport.  

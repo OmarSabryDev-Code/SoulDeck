@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84834b821faeb134ba5cd1c4fa3d163e, type: 3}
+  m_Name: Defence
+  m_EditorClassIdentifier: 
+  cardName: Shield
+  description: 
+  cardIcon: {fileID: 21300000, guid: 3d165d9c926c6044c87892b67e3f2812, type: 3}
+  manaCost: 3
+  value: 1
+  cardType: 2
+  defenseTurns: 1
+  blockAmount: 0
